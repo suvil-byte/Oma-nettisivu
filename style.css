@@ -1,0 +1,30 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: large;
+
+    color: #222222;
+
+    background-color: #f9f9fb;
+
+}
+
+h1, h2 {
+
+    color: #0b3c5d;
+
+}
+.kortti {
+
+    width: 300;
+
+    padding: 20px;
+
+    border: 2px;
+
+    margin: 25px auto;
+
+    background-color: red;
+
+}
